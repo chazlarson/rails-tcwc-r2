@@ -1,7 +1,7 @@
 # config valid only for Capistrano 3.1
 lock '3.1.0'
 
-set :application, 'TCWC SAM'
+set :application, 'rails-tcwc-r2'
 set :repo_url, 'git@github.com:chazlarson/rails-tcwc-r2.git'
 
 # Default branch is :master
