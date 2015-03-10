@@ -16,6 +16,9 @@ group :development, :test do
   gem 'spring'
 end
 gem 'bootstrap-sass'
+gem 'devise'
+gem 'devise_invitable'
+gem 'pundit'
 gem 'high_voltage'
 gem 'pg'
 gem 'simple_form'
